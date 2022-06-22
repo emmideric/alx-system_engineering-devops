@@ -1,1 +1,1 @@
-Deleting the first directory
+Script that lists all files current, parent and /boot
