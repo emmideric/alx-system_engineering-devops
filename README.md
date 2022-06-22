@@ -1,1 +1,1 @@
-I Love numbers task
+A script that creates a directory
