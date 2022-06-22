@@ -1,1 +1,1 @@
-Change working Directory to user's home directory
+Changing current work Directory to user's home directory
