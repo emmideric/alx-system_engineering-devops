@@ -1,1 +1,1 @@
-Printing the type of file
+Symbols, and inhabit symbols
