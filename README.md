@@ -1,1 +1,1 @@
-Script that lists all files current, parent and /boot
+Printing the type of file
