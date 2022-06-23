@@ -1,1 +1,1 @@
-Script that adds execution permission
+Script thatsets the permissions to 007
