@@ -1,1 +1,1 @@
-Script that adds execute permission to the owner of the hello..
+Script that adds multiple permissions..
