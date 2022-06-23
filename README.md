@@ -1,1 +1,1 @@
-Script that adds multiple permissions..
+Script that adds execution permission
