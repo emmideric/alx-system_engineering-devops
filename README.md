@@ -1,1 +1,1 @@
-Printing all groups the current user is part of.
+Script that changes owner of the file.
