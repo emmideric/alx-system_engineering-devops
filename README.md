@@ -1,1 +1,1 @@
-Script thatsets the permissions to 007
+Script that sets the mode of the file
