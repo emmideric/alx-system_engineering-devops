@@ -1,1 +1,1 @@
-Script that creates a directory tree
+List all files and directories with commas and slashes
