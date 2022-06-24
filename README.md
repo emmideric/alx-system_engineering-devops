@@ -1,1 +1,1 @@
-Delete all files in the current working directory ending with the character ~
+Script that creates a directory tree
