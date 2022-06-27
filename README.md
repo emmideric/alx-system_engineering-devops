@@ -1,1 +1,1 @@
-Script to save current state of directory
+Script that duplicates last line of a file
