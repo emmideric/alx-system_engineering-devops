@@ -1,1 +1,1 @@
-List all files and directories with commas and slashes
+Tasks dealing with shell redirections
