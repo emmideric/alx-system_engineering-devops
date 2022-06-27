@@ -1,1 +1,1 @@
-Displaying contents of two files
+Displaying Head and Tail of a file
