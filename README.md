@@ -1,1 +1,1 @@
-List all files and directories with commas and slashes
+Shell redirections Task 0: Hello World
