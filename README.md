@@ -1,1 +1,1 @@
-Displaying Head and Tail of a file
+Script to save current state of directory
