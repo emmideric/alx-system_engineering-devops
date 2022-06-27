@@ -1,1 +1,1 @@
-Tasks dealing with shell redirections edited
+Task 0. Hello world.
