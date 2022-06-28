@@ -1,1 +1,1 @@
-Script that creates an alias
+Script that adds a directory to PATH
