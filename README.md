@@ -1,1 +1,1 @@
-Script that counts that displays the 10 newest files
+Script that creates an alias
