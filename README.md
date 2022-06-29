@@ -1,1 +1,1 @@
-Script that displays a confused smiley face
+Display the content of /etc/passwd and /etc/hosts
