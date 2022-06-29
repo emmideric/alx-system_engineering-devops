@@ -1,1 +1,1 @@
-Script that prints all possible combinations of two letters, except 00
+Script that prints 'Hello, World' followed by a new line
