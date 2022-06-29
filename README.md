@@ -1,1 +1,1 @@
-Display the content of /etc/passwd and /etc/hosts
+Display lines containing the pattern "root" from the file /etc/passwd
