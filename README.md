@@ -1,1 +1,1 @@
-Create a script that takes a list of words as input and prints words that only appear once.
+Display all lines of the file /etc/ssh/ssh_config starting with a lette.
