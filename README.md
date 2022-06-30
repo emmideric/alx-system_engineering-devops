@@ -1,1 +1,1 @@
-Create a script that prints hello user, where user is the current linux user.
+Create a script that prints all possible combinations of two letters, except oo
